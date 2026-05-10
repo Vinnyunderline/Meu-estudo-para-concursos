@@ -2,6 +2,25 @@ site_name: Estudos para Concursos
 
 theme:
   name: material
+  language: pt-BR
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - search.suggest
+
+  palette:
+  - scheme: default
+    toggle:
+      icon: material/weather-night
+      name: Modo escuro
+
+  - scheme: slate
+    toggle:
+      icon: material/weather-sunny
+      name: Modo claro
 
 nav:
   - Início: index.md
