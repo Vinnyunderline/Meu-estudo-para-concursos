@@ -13,6 +13,7 @@ Bem-vindo ao meu acervo de estudos.
   - Administração Geral
   - Processo administrativo: (lei-8429)
   - Improbidade administrativa(lei-842429)
+  - Nova lei de licitações (lei 14.133/2021)
 
 ## Objetivo
 Organizar materiais para revisão e preparação para concursos públicos.
