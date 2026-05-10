@@ -12,22 +12,26 @@ theme:
     - search.suggest
 
   palette:
-  - scheme: default
-    toggle:
-      icon: material/weather-night
-      name: Modo escuro
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
 
-  - scheme: slate
-    toggle:
-      icon: material/weather-sunny
-      name: Modo claro
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
 
 nav:
   - Início: index.md
   - Português: portugues.md
   - Informática: informatica.md
-  - Constitucional: constitucional.md
-  - Direito administrativo: dir.administrativo.md
-  - Leis Especiais: leis-especiais.md
+  - Direito Constitucional: dir.constitucional.md
+  - Direito Administrativo: dir.administrativo.md
   - Raciocínio Lógico: rlm.md
   - Administração Geral: administracao.md
+
+  - Leis Especiais:
+   
+      - Lei 8429: leis.md/lei-8429.md
+      - Lei 9784: leis.md/lei-9784.md

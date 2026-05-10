@@ -1,2 +1,0 @@
-- Processo administrativo: lei-9784.md
-- Improbidade administrativa: lei-8429.md
