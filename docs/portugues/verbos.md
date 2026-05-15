@@ -169,4 +169,4 @@ Exemplo de particípio irregular: Aqui tudo é aceito com carinho.
 
 Gerúndio: expressa o processo da ação: acordando, agradecendo, esperando, sorrindo, unindo.
 
- ![Mapa mental verbos](imagens/verbomapamental-cke.jpg)
+ ![Mapa mental verbos](portugues/imagens/verbomapamental-cke.jpg)
