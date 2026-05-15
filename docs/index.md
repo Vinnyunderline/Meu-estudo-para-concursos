@@ -1,8 +1,11 @@
- # 📚 Estudos para Concursos
+ # Estudos para Concursos
 
 Bem-vindo ao meu acervo de estudos.
 
-## Disciplinas
+## Objetivo
+Organizar materiais para revisão e preparação para concursos públicos.
+
+### **Disciplinas estudadas**
 
   - Português
   - Informática
@@ -15,8 +18,11 @@ Bem-vindo ao meu acervo de estudos.
   - Improbidade administrativa(lei-842429)
   - Nova lei de licitações (lei 14.133/2021)
 
-## Objetivo
-Organizar materiais para revisão e preparação para concursos públicos.
+  ### observação
+
+  ![Ordem de Estudo](imagens/ordem_de_estudo.jpg)
+
+
  
  
  
