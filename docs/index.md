@@ -20,7 +20,8 @@ Organizar materiais para revisão e preparação para concursos públicos.
 
   ### observação
 
-  ![Ordem de Estudo](docs/imagens/ordem_de_estudo.jpg)
+
+  ![Ordem de Estudo](/workspaces/Meu-estudo-para-concursos/docs/imagens/ordem_de_estudo.jpg)
 
 
  
