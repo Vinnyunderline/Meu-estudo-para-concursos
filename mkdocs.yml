@@ -39,9 +39,9 @@ nav:
 
   - Português: 
 
-      - Verbos: verbos.md
-      - conjunções: conjuncoes.md
-      - pronomes: pronomes.md
-      - crase: crase.md
-      - Análise sintática: sintatica.md
-      - Modelo de redação: redacao.md
+      - Verbos: portugues/verbos.md
+      - conjunções: portugues/conjuncoes.md
+      - pronomes: portugues/pronomes.md
+      - crase: portugues/crase.md
+      - Análise sintática: portugues/sintatica.md
+      - Modelo de redação: portugues/redacao.md
