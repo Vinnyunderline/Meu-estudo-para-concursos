@@ -24,12 +24,7 @@ theme:
 
 nav:
   - Início: index.md
-  - Potugues
-
-      - Verbos: verbos.md
-      - Conjunções: conjuncoes.md
-      - 
-
+  
   - Informática: informatica.md
   - Direito Constitucional: dir.constitucional.md
   - Direito Administrativo: dir.administrativo.md
