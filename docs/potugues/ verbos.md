@@ -1,1 +1,0 @@
-# Verbos e análises

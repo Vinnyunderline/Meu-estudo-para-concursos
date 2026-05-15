@@ -1,1 +1,0 @@
-# Conjunções e análises
