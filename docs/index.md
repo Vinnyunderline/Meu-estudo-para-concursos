@@ -20,7 +20,7 @@ Organizar materiais para revisão e preparação para concursos públicos.
 
   ### observação
 
-  ![Ordem de Estudo](../verbomapamental-cke.webp)
+  ![Ordem de Estudo](docs/imagens/ordem_de_estudo.jpg)
 
 
  
