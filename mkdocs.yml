@@ -1,1 +1,32 @@
+site_name: Meu Estudo para Concursos
 
+theme:
+  name: material
+  language: pt-BR
+
+nav:
+  - Início: index.md
+
+  - Português:
+      - Crase: portugues/crase.md
+      - Conjunções: portugues/conjuncoes.md
+      - Pronomes: portugues/pronomes.md
+
+  - Direito Administrativo:
+      - Agentes Públicos: administrativo/agentes-publicos.md
+      - Administração Pública: administrativo/administracao.md
+
+  - Informática:
+      - Informática Básica: informatica/informatica-basica.md
+
+  - Leis:
+      - Lei 8.429/92: leis/lei-8429.md
+      - Lei 9.784/99: leis/lei-9784.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
