@@ -8,7 +8,7 @@ nav:
   - Início: index.md
 
   - Português:
-      - Crase: docs/portugues/crase.md
+      - Crase: portugues/crase.md
       - Conjunções: docs/portugues/conjuncoes.md
       - Pronomes: docs/portugues/pronomes.md
       - Verbos: docs/portugues/verbos.md
