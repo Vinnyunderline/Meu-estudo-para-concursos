@@ -1,6 +1,6 @@
 # Administração Geral 
 
-Administração — Explicação Completa e Didática
+## Administração — Explicação Completa e Didática
 
 A Administração é a ciência responsável por planejar, organizar, dirigir e controlar recursos para alcançar objetivos.
 
@@ -18,21 +18,13 @@ tecnologia;
 
 informações.
 
-
-
----
-
-1. O que é Administração?
+# 1. O que é Administração?
 
 Administrar significa:
 
 > utilizar recursos da melhor forma possível para atingir objetivos com eficiência e eficácia.
 
-
-
-Exemplo simples:
-
-Imagine uma pizzaria.
+Exemplo simples: Imagine uma pizzaria.
 
 O dono precisa:
 
@@ -46,13 +38,9 @@ organizar entregas;
 
 atender clientes.
 
-
 Tudo isso é administração.
 
-
----
-
-2. Objetivos da Administração
+# 2. Objetivos da Administração
 
 A administração busca:
 
@@ -66,11 +54,7 @@ organizar processos;
 
 alcançar metas.
 
-
-
----
-
-3. Funções Administrativas
+# 3. Funções Administrativas
 
 A teoria clássica divide a administração em 4 funções principais.
 
@@ -86,11 +70,7 @@ Dirigir
 
 Controlar
 
-
-
----
-
-4. Planejamento
+# 4. Planejamento
 
 Planejar é definir:
 
@@ -102,13 +82,9 @@ estratégias;
 
 caminhos.
 
-
 É decidir antecipadamente o que será feito.
 
-
----
-
-Tipos de Planejamento
+"Tipos de Planejamento"
 
 a) Estratégico
 
@@ -128,13 +104,9 @@ foco no futuro;
 
 impacto organizacional.
 
-
 Exemplo:
 
 expandir empresa para outro estado.
-
-
----
 
 b) Tático
 
@@ -150,9 +122,6 @@ Exemplo:
 
 criar plano de marketing regional.
 
-
----
-
 c) Operacional
 
 Mais detalhado.
@@ -165,10 +134,7 @@ Exemplo:
 
 escala de funcionários da semana.
 
-
----
-
-Diferença clássica
+## Diferença clássica
 
 Tipo	Nível	Prazo	Abrangência
 
@@ -176,11 +142,7 @@ Estratégico	Alto	Longo	Organização inteira
 Tático	Médio	Médio	Departamentos
 Operacional	Baixo	Curto	Atividades específicas
 
-
-
----
-
-5. Organização
+# 5. Organização
 
 Organizar é distribuir:
 
@@ -199,10 +161,6 @@ como faz;
 
 quando faz.
 
-
-
----
-
 Estrutura Organizacional
 
 Mostra como a empresa funciona internamente.
@@ -217,18 +175,11 @@ supervisão;
 
 operacional.
 
-
-
----
-
 Organograma
 
 Representação gráfica da estrutura.
 
-
----
-
-6. Direção
+# 6. Direção
 
 É a função ligada à liderança e execução.
 
