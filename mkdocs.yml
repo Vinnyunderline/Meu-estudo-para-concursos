@@ -7,7 +7,7 @@ theme:
 nav:
   - Início: index.md
 
-  - Português:
+  - português:
       - Crase: portugues/crase.md
       - Conjunções: docs/portugues/conjuncoes.md
       - Pronomes: docs/portugues/pronomes.md
@@ -15,15 +15,20 @@ nav:
       - redação: docs/portugues/redacao.md
       - Analise Sintática: docs/portugues/sintatica.md
 
-  - Direito Administrativo:
+  - administrativo:
       - Agentes Públicos: docs/administrativo/agentes-publicos.md
       - Administração Pública: docs/administrativo/administracao.md
+      - Direito Administrativo: docs/administrativo/dir-administrativo.md
 
-  - Informática:
+ - constitucional:
+      - Constituição: docs/constitucional/constituicao.md
+      - Direitos Fundamentais: docs/constitucional/direitos-fundamentais.md
+      - Poderes da União: docs/constitucional/poderes-uniao.md
+
+  - informática:
       - Informática Básica: docs/informatica/informatica-basica.md
 
-
-  - Leis:
+  - leis:
       - Lei 8.429/92: docs/leis/lei-8429.md
       - Lei 9.784/99: docs/leis/lei-9784.md
 
