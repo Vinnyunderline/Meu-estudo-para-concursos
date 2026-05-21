@@ -3,34 +3,36 @@ site_name: Meu Estudo para Concursos
 theme:
   name: material
   language: pt-BR
+  
 
 nav:
   - Início: index.md
 
+
   - português:
       - Crase: portugues/crase.md
-      - Conjunções: docs/portugues/conjuncoes.md
-      - Pronomes: docs/portugues/pronomes.md
-      - Verbos: docs/portugues/verbos.md
-      - redação: docs/portugues/redacao.md
-      - Analise Sintática: docs/portugues/sintatica.md
+      - Conjunções: portugues/conjuncoes.md
+      - Pronomes: portugues/pronomes.md
+      - Verbos: portugues/verbos.md
+      - redação: portugues/redacao.md
+      - Analise Sintática: portugues/sintatica.md
 
   - administrativo:
-      - Agentes Públicos: docs/administrativo/agentes-publicos.md
-      - Administração Pública: docs/administrativo/administracao.md
-      - Direito Administrativo: docs/administrativo/dir-administrativo.md
+      - Agentes Públicos: administrativo/agentes-publicos.md
+      - Administração Pública: administrativo/administracao.md
+      - Direito Administrativo: administrativo/dir-administrativo.md
 
  - constitucional:
-      - Constituição: docs/constitucional/constituicao.md
-      - Direitos Fundamentais: docs/constitucional/direitos-fundamentais.md
-      - Poderes da União: docs/constitucional/poderes-uniao.md
+      - Constituição: constitucional/constituicao.md
+      - Direitos Fundamentais: constitucional/direitos-fundamentais.md
+      - Poderes da União: constitucional/poderes-uniao.md
 
   - informática:
-      - Informática Básica: docs/informatica/informatica-basica.md
+      - Informática Básica: informatica/informatica-basica.md
 
   - leis:
-      - Lei 8.429/92: docs/leis/lei-8429.md
-      - Lei 9.784/99: docs/leis/lei-9784.md
+      - Lei 8.429/92: leis/lei-8429.md
+      - Lei 9.784/99: leis/lei-9784.md
 
 markdown_extensions:
   - admonition
