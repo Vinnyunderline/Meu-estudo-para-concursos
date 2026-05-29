@@ -36,6 +36,7 @@ nav:
   - Leis:
       - Lei 8.429/92: leis/lei-8429.md
       - Lei 9.784/99: leis/lei-9784.md
+      - Lei 14.133/2021: leis/lei-14133.md
 
 markdown_extensions:
   - admonition

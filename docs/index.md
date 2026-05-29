@@ -14,8 +14,8 @@ Organizar materiais para revisão e preparação para concursos públicos.
   - Leis Especiais
   - Raciocínio Lógico
   - Administração Geral
-  - Processo administrativo: (lei-8429)
-  - Improbidade administrativa(lei-842429)
+  - Processo administrativo: Lei 9.784/99
+  - Improbidade administrativa: Lei 8.429/92
   - Nova lei de licitações (lei 14.133/2021)
 
   ### observação
