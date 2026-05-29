@@ -8,7 +8,7 @@
 - Direito Constitucional
 - Direito Administrativo
 - Administração
-- Raciocícnio lógico
+- Raciocínio lógico
 - Leis Especiais
 
 ## Conteúdo
