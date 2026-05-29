@@ -1,18 +1,13 @@
 # Conjunções
 
-
-Conjunções — Explicação Completa e Didática
+## Conjunções 
 
 As conjunções são palavras usadas para ligar:
 
 palavras;
-
 termos;
-
 orações;
-
 frases.
-
 
 Elas mostram a relação de sentido entre as partes da frase.
 
@@ -20,8 +15,7 @@ Exemplo:
 
 Estudei muito, mas fiquei nervoso.
 
-A palavra “mas” liga duas ideias e mostra oposição.
-
+A palavra “**mas**” liga duas ideias e mostra oposição.
 
 ---
 
@@ -31,23 +25,14 @@ Conjunção é a palavra que conecta elementos da oração.
 
 Ela ajuda a indicar:
 
-soma;
-
-oposição;
-
-causa;
-
-consequência;
-
-condição;
-
-explicação;
-
-tempo;
-
-finalidade.
-
-
+1- soma;
+2- oposição;
+3- causa;
+4- consequência;
+5- condição;
+6- explicação;
+7- tempo;
+8- finalidade.
 
 ---
 
@@ -57,10 +42,8 @@ João estudou e passou.
 
 A conjunção:
 
-e
-
+**e**
 liga duas ações.
-
 
 ---
 
@@ -76,7 +59,6 @@ Ligam orações independentes.
 
 Ligam oração principal a uma dependente.
 
-
 ---
 
 3. Conjunções Coordenativas
@@ -89,11 +71,9 @@ Cheguei cedo, mas o portão estava fechado.
 
 Cada oração possui sentido próprio.
 
-
 ---
 
-Tipos de Coordenativas
-
+## Tipos de Coordenativas
 
 ---
 
@@ -101,20 +81,17 @@ a) Aditivas
 
 Ideia: soma.
 
-
 ---
 
 Principais:
 
-e
+" e
 
 nem
 
 não só... mas também
 
-bem como
-
-
+bem como "
 
 ---
 
@@ -131,12 +108,11 @@ b) Adversativas
 
 Ideia: oposição.
 
-
 ---
 
 Principais
 
-mas
+" mas
 
 porém
 
@@ -146,9 +122,7 @@ todavia
 
 entretanto
 
-no entanto
-
-
+no entanto" 
 
 ---
 
@@ -158,19 +132,17 @@ Estudou muito, mas errou.
 
 Queria sair, porém estava chovendo.
 
-
 ---
 
 c) Alternativas
 
 Ideia: alternância.
 
-
 ---
 
 Principais
 
-ou
+"ou
 
 ou... ou
 
@@ -178,9 +150,7 @@ ora... ora
 
 já... já
 
-quer... quer
-
-
+quer... quer"
 
 ---
 
@@ -188,19 +158,17 @@ Exemplos
 
 Ou você estuda ou reprova.
 
-
 ---
 
 d) Conclusivas
 
 Ideia: conclusão.
 
-
 ---
 
 Principais
 
-logo
+"logo
 
 portanto
 
@@ -208,9 +176,7 @@ por isso
 
 assim
 
-então
-
-
+então"
 
 ---
 
@@ -218,25 +184,21 @@ Exemplos
 
 Estudou bastante, portanto foi aprovado.
 
-
 ---
 
 e) Explicativas
 
 Ideia: explicação.
 
-
 ---
 
-Principais
+"Principais
 
 porque
 
 que
 
-pois (antes do verbo)
-
-
+pois (antes do verbo)"
 
 ---
 
@@ -250,14 +212,13 @@ Feche a porta, porque está frio.
 Resumo das Coordenativas
 
 Tipo	Ideia
-
+"
 Aditiva	Soma
 Adversativa	Oposição
 Alternativa	Escolha
 Conclusiva	Conclusão
 Explicativa	Explicação
-
-
+"
 
 ---
 
@@ -283,8 +244,7 @@ explica a causa da saída.
 
 ---
 
-Tipos de Subordinativas
-
+### Tipos de Subordinativas
 
 ---
 
@@ -292,12 +252,11 @@ a) Causais
 
 Ideia: causa.
 
-
 ---
 
 Principais
 
-porque
+"porque
 
 como
 
@@ -305,9 +264,7 @@ já que
 
 visto que
 
-uma vez que
-
-
+uma vez que"
 
 ---
 
@@ -322,20 +279,17 @@ b) Consecutivas
 
 Ideia: consequência.
 
-
 ---
 
 Principais
 
-tão... que
+"tão... que
 
 tanto... que
 
 de modo que
 
-de forma que
-
-
+de forma que"
 
 ---
 
@@ -343,27 +297,23 @@ Exemplos
 
 Choveu tanto que a rua alagou.
 
-
 ---
 
 c) Condicionais
 
 Ideia: condição.
 
-
 ---
 
 Principais
 
-se
+"se
 
 caso
 
 desde que
 
-contanto que
-
-
+contanto que"
 
 ---
 
@@ -371,27 +321,23 @@ Exemplos
 
 Se estudar, passará.
 
-
 ---
 
 d) Concessivas
 
 Ideia: contraste/concessão.
 
-
 ---
 
 Principais
 
-embora
+"embora
 
 ainda que
 
 mesmo que
 
-apesar de que
-
-
+apesar de que"
 
 ---
 
@@ -399,19 +345,17 @@ Exemplos
 
 Embora estivesse cansado, continuou.
 
-
 ---
 
 e) Comparativas
 
 Ideia: comparação.
 
-
 ---
 
 Principais
 
-como
+"como
 
 assim como
 
@@ -419,9 +363,7 @@ tal qual
 
 mais que
 
-menos que
-
-
+menos que"
 
 ---
 
@@ -429,27 +371,23 @@ Exemplos
 
 Ele corre como um atleta.
 
-
 ---
 
 f) Conformativas
 
 Ideia: conformidade.
 
-
 ---
 
 Principais
 
-conforme
+"conforme
 
 segundo
 
 como
 
-consoante
-
-
+consoante"
 
 ---
 
@@ -457,23 +395,19 @@ Exemplos
 
 Fiz conforme você pediu.
 
-
 ---
 
 g) Finais
 
 Ideia: finalidade.
 
-
 ---
 
 Principais
 
-para que
+"para que
 
-a fim de que
-
-
+a fim de que"
 
 ---
 
@@ -481,25 +415,21 @@ Exemplos
 
 Estudou para que fosse aprovado.
 
-
 ---
 
 h) Proporcionais
 
 Ideia: proporção.
 
-
 ---
 
 Principais
 
-à medida que
+"à medida que
 
 à proporção que
 
-quanto mais
-
-
+quanto mais"
 
 ---
 
@@ -507,27 +437,23 @@ Exemplos
 
 À medida que estudava, aprendia mais.
 
-
 ---
 
 i) Temporais
 
 Ideia: tempo.
 
-
 ---
 
 Principais
 
-quando
+"quando
 
 enquanto
 
 assim que
 
-logo que
-
-
+logo que"
 
 ---
 
@@ -535,12 +461,12 @@ Exemplos
 
 Quando chegou, todos saíram.
 
-
 ---
 
 Resumo das Subordinativas
 
-Tipo	Ideia
+"
+**Tipo Ideia**
 
 Causal	Causa
 Consecutiva	Consequência
@@ -552,11 +478,10 @@ Final	Finalidade
 Proporcional	Proporção
 Temporal	Tempo
 
-
-
+"
 ---
 
-5. Diferença importante
+## Diferença importante
 
 
 ---
@@ -569,7 +494,6 @@ Liga orações independentes.
 
 Estudou, mas errou.
 
-
 ---
 
 Concessiva
@@ -578,13 +502,11 @@ A oração depende da principal.
 
 Embora estudasse, errou.
 
-
 ---
 
-6. O “porque” pode mudar de classe
+### O “porque” pode mudar de classe
 
 Muito cobrado.
-
 
 ---
 
@@ -616,12 +538,11 @@ Você saiu por quê?
 
 ---
 
-7. Pegadinhas de Concurso
+### Observação de Pegadinhas de Concurso
 
 
 ---
-
-“Mas” nunca indica soma
+" “Mas” nunca indica soma
 
 Sempre oposição.
 
@@ -635,8 +556,7 @@ Explicativo:
 antes do verbo.
 
 Saia, pois está tarde.
-
-
+"
 ---
 
 Conclusivo:
@@ -679,8 +599,9 @@ Fiz como pediu.
 
 ---
 
-8. O que a CEBRASPE mais cobra?
+### O que a CEBRASPE mais cobra?
 
+"
 valor semântico;
 
 troca de conjunções;
@@ -694,13 +615,10 @@ concessivas;
 condicionais;
 
 conectivos argumentativos.
-
-
-
+"
 ---
 
-9. Macetes rápidos
-
+## Observação: Macetes rápidos
 
 ---
 
@@ -729,11 +647,11 @@ Condição
 
 se,\ caso,\ desde\ que
 
-
 ---
 
-10. Resumo Final
+## Resumo Final
 
+"
 Conjunções:
 
 ligam palavras e orações;
@@ -749,7 +667,7 @@ coordenativas;
 
 subordinativas.
 
-
+"
 
 ---
 
