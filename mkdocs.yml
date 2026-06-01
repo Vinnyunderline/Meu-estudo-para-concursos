@@ -30,6 +30,7 @@ nav:
   - Informática:
       - Informática Básica: informatica/informatica-basica.md
       - Comandos Linux: informatica/comandoslinux.md
+      - Malwares: informatica/malwares.md
 
   - Raciocínio Lógico:
       - Raciocínio Lógico: raciocinio-logico/raciocinio-logico1.md
