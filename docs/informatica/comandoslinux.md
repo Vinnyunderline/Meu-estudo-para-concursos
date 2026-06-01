@@ -1,7 +1,7 @@
 # Comandos Linux
 
 
-![Comandos Linux 1](../imagens/comamdos_linux1)
+![Comandos Linux 1](../imagens/comamdos_linux1.jpg)
 
 ![Comandos Linux 2](../imagens/comamdos_linux2)
 
