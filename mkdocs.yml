@@ -7,7 +7,7 @@ theme:
   palette:
 
     - scheme: default
-      primary: indigo
+      primary: grey
       accent: amber
       toggle:
         icon: material/weather-night
