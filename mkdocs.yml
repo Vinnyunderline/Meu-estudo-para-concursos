@@ -48,7 +48,7 @@ nav:
       - Comandos Linux: informatica/comandoslinux.md
       - Malwares: informatica/malwares.md
       - Programas de Escritório:
-        - Introdução: informatica/suite-escritorio/index.md
+        - Introdução: informatica/suite-escritorio/introducao.md
         - Word: informatica/suite-escritorio/word.md
         - Excel: informatica/suite-escritorio/excel.md
         - PowerPoint: informatica/suite-escritorio/powerpoint.md
