@@ -4,6 +4,22 @@ theme:
   name: material
   language: pt-BR
 
+  palette:
+
+    - scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+
+    - scheme: slate
+      primary: black
+      accent: lime
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
 
 nav:
   - Início: index.md
