@@ -23,8 +23,6 @@ pacote Office;
 
 redes.
 
-
-
 ---
 
 1. O que é um Computador?
@@ -39,13 +37,11 @@ armazenar arquivos;
 
 executar programas.
 
-
-
 ---
 
-Funcionamento básico
+### Funcionamento básico
 
-Entrada → Processamento → Saída
+**Entrada → Processamento → Saída**
 
 Entrada \rightarrow Processamento \rightarrow Saída
 
@@ -62,13 +58,13 @@ mouse;
 scanner.
 
 
-Processamento
+### Processamento
 
 O computador analisa os dados.
 
 Responsável principal: CPU.
 
-Saída
+### Saída
 
 Resultado apresentado.
 
@@ -79,8 +75,6 @@ monitor;
 impressora;
 
 caixas de som.
-
-
 
 ---
 
@@ -104,12 +98,9 @@ memória;
 
 HD.
 
-
-
 ---
 
-Principais componentes
-
+## Principais componentes
 
 ---
 
@@ -132,8 +123,6 @@ Intel;
 
 AMD.
 
-
-
 ---
 
 Memória RAM
@@ -150,7 +139,6 @@ perde dados ao desligar.
 
 
 Mais RAM → maior capacidade multitarefa.
-
 
 ---
 
@@ -175,8 +163,6 @@ muito mais rápido;
 
 mais caro.
 
-
-
 ---
 
 Placa-Mãe
@@ -184,7 +170,6 @@ Placa-Mãe
 Conecta todos os componentes.
 
 É a principal placa do computador.
-
 
 ---
 
@@ -214,8 +199,6 @@ pendrive;
 
 touchscreen.
 
-
-
 ---
 
 3. Software
@@ -234,11 +217,9 @@ navegador;
 
 aplicativos.
 
-
-
 ---
 
-Tipos de Software
+## Tipos de Software
 
 
 ---
@@ -298,8 +279,6 @@ programas;
 
 hardware.
 
-
-
 ---
 
 Principais sistemas operacionais
@@ -320,7 +299,6 @@ iOS
 
 iPhones.
 
-
 ---
 
 Área de Trabalho (Desktop)
@@ -334,8 +312,6 @@ Contém:
 barra de tarefas;
 
 atalhos.
-
-
 
 ---
 
@@ -353,14 +329,11 @@ vídeo;
 
 documento.
 
-
-
 ---
 
 Pasta
 
 Organiza arquivos.
-
 
 ---
 
@@ -373,8 +346,6 @@ Excel	.xlsx
 PDF	.pdf
 Imagem	.jpg
 Música	.mp3
-
-
 
 ---
 
@@ -390,8 +361,6 @@ pesquisa;
 
 compartilhamento.
 
-
-
 ---
 
 Navegadores
@@ -405,8 +374,6 @@ Google Chrome;
 Mozilla Firefox;
 
 Microsoft Edge.
-
-
 
 ---
 
@@ -423,7 +390,6 @@ Parte individual do site.
 Homepage
 
 Página inicial.
-
 
 ---
 
@@ -872,7 +838,7 @@ Hardware = Parte\ física \qquad Software = Parte\ lógica
 
 ---
 
-10 Perguntas para Fixação
+## 10 Perguntas para Fixação
 
 1. O que é hardware?
 
