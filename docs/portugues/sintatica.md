@@ -1,5 +1,7 @@
 #  Analise Sintática
 
+**Veja o video explicativo clicando** [**aqui**](https://www.youtube.com/watch?v=pp-QLuf0w3Y&t=4178s)
+
 
 Análise Sintática — Explicação Completa e Didática
 

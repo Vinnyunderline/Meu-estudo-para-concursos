@@ -1,5 +1,7 @@
 # Conjunções
 
+**Acesse à aula desse conteúdo** [**Aqui**](https://www.youtube.com/watch?v=t3aw2LCDmwo)
+
 ## Conjunções 
 
 As conjunções são palavras usadas para ligar:
