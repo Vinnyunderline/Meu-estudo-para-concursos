@@ -64,7 +64,7 @@ nav:
       - Lei 14.133/2021: leis/lei-14133.md
 
   - turismo:
-      - turismo e hotelaria.md
+      - turismo/turismo e hotelaria.md
       
 
 markdown_extensions:

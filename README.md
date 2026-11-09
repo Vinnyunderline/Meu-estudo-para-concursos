@@ -10,6 +10,7 @@
 - Administração
 - Raciocínio lógico
 - Leis Especiais
+- Turismo
 
 ## Conteúdo
 - Resumos

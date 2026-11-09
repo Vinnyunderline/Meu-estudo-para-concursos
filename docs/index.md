@@ -17,6 +17,8 @@ Organizar materiais para revisão e preparação para concursos públicos.
   - Processo administrativo: Lei 9.784/99
   - Improbidade administrativa: Lei 8.429/92
   - Nova lei de licitações (lei 14.133/2021)
+  - Turismo
+
 
   ### observação
 
