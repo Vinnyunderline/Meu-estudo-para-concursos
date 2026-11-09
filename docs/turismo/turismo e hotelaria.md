@@ -1,6 +1,40 @@
 # Turismo e hotelaria
 
 
+# Guia de Estudos: Agente de Turismo
+
+Este guia reúne as principais referências e fontes de estudo baseadas nos tópicos exigidos para a formação e capacitação de Agentes de Turismo.
+
+## 1. Fundamentos, Planejamento e Roteirização
+Compreende os conceitos gerais, terminologia, evolução do turismo, desenvolvimento regional e elaboração de roteiros.
+
+* [Manual de Estruturação de Roteiros Turísticos (MTur)](https://www.gov.br/turismo/pt-br/acesso-a-informacao/acoes-e-programas){target=_blank}
+* [Revista Brasileira de Pesquisa em Turismo (RBTUR)](https://www.rbtur.org.br/rbtur){target=_blank}
+
+## 2. Políticas Públicas, Legislação e Sistema Nacional de Turismo
+Abrange o marco regulatório, a Lei Geral do Turismo, programas de fomento ao setor e políticas de economia criativa.
+
+* [Lei Geral do Turismo (Lei nº 11.771/2008)](https://www.gov.br/turismo/pt-br/acesso-a-informacao/acoes-e-programas/fungetur/legislacao-1){target=_blank}
+* [Plano Nacional de Turismo (PNT)](https://www.gov.br/turismo/pt-br){target=_blank}
+* [Políticas Públicas de Cultura e Economia Criativa (MinC)](https://www.gov.br/cultura/pt-br){target=_blank}
+
+## 3. Marketing, Pesquisa e Demanda Turística
+Estratégias de promoção de destinos, análise de mercado, perfil de consumidores e ferramentas digitais de informação.
+
+* [Estudos e Pesquisas de Demanda Turística (EMBRATUR)](https://www.embratur.com.br/){target=_blank}
+
+## 4. Patrimônio Cultural, Sustentabilidade e Ecoturismo
+Estudo voltado para a preservação do patrimônio material e imaterial, educação patrimonial, ecoturismo e gestão de áreas protegidas.
+
+* [Patrimônio Material e Imaterial (IPHAN)](https://www.gov.br/iphan/pt-br/patrimonio-cultural/patrimonio-material){target=_blank}
+* [Gestão de Ecoturismo e Áreas Protegidas (ICMBio)](https://www.gov.br/icmbio/pt-br){target=_blank}
+
+## 5. Hospitalidade, Acessibilidade, Eventos e Ética
+Técnicas de atendimento humanizado, acessibilidade universal, legislação para uso de espaços públicos em eventos e códigos de conduta profissional.
+
+* [Código Global de Ética para o Turismo (PDF)](http://antigo.turismo.gov.br/sites/default/turismo/home/programas/Imagens_programas_home/VersoFinalAERI.pdf){target=_blank}
+* [Programa Turismo Acessível (MTur)](https://www.gov.br/turismo/pt-br){target=_blank}
+
 Perfeito! Vamos iniciar a sua preparação estruturada, destrinchando o **Módulo 1** com foco total no que as bancas de concurso cobram sobre a teoria, a história e a geografia do turismo.
 
 ---
