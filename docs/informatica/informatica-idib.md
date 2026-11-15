@@ -3,23 +3,21 @@
 INFORMÁTICA
 APOSTILA ESTRATÉGICA PARA CONCURSOS
 BANCA IDIB
-Teoria direcionada • exemplos de cobrança • 30 questões inéditas • gabarito comentado
-Material elaborado a partir do conteúdo programático informado. As questões são autorais e inspiradas no formato objetivo de concursos; não são transcrições de provas oficiais.
 
+Teoria direcionada • exemplos de cobrança • 30 questões inéditas • gabarito comentado
+
+Material elaborado a partir do conteúdo programático informado. As questões são autorais e inspiradas no formato objetivo de concursos; não são transcrições de provas oficiais.
 Como utilizar esta apostila
-Estude a explicação de cada capítulo e marque os conceitos que confundiu.
-Faça as questões sem consultar o texto e leia os comentários mesmo quando acertar.
-Revise fórmulas, protocolos, atalhos, permissões, conceitos da LGPD e diferenças entre termos parecidos.
-As prioridades são orientativas. Todo assunto expressamente previsto no edital pode ser cobrado.
+- Estude a explicação de cada capítulo e marque os conceitos que confundiu.
+- Faça as questões sem consultar o texto e leia os comentários mesmo quando acertar.
+- Revise fórmulas, protocolos, atalhos, permissões, conceitos da LGPD e diferenças entre termos parecidos.
+- As prioridades são orientativas. Todo assunto expressamente previsto no edital pode ser cobrado.
 Mapa de prioridades
-Prioridade
-Conteúdos
-Muito alta
-Excel/Calc; Word/Writer; Windows; hardware/software; internet e redes; e-mail
-Alta
-Segurança da informação; LGPD; armazenamento; operações com arquivos
-Complementar, mas previsto no edital
-PowerPoint/Impress; nuvem e colaboração; banco de dados; governo digital; gestão documental; formatos e integração
+Prioridade	Conteúdos
+Muito alta	Excel/Calc; Word/Writer; Windows; hardware/software; internet e redes; e-mail
+Alta	Segurança da informação; LGPD; armazenamento; operações com arquivos
+Complementar, mas previsto no edital	PowerPoint/Impress; nuvem e colaboração; banco de dados; governo digital; gestão documental; formatos e integração
+
 
 1. Fundamentos de informática: hardware, software e arquivos
 Hardware
@@ -155,156 +153,157 @@ Compatibilidade
 Office e LibreOffice conseguem abrir e salvar diversos formatos, mas podem ocorrer diferenças em fontes, fórmulas, macros, layout, comentários e efeitos. Para preservar o conteúdo, prefira o formato exigido pelo destinatário e confira o arquivo após converter.
 13. Questões inéditas – estilo IDIB
 Assinale uma única alternativa em cada questão.
+
 Questão 1. A memória RAM é caracterizada por:
-A) Armazenar dados permanentemente, mesmo sem energia.
-B) Ser volátil e manter temporariamente dados em uso.
-C) Substituir o processador na execução de instruções.
-D) Armazenar exclusivamente arquivos de vídeo.
-Questão 2. Assinale a alternativa que apresenta um formato padrão do LibreOffice Calc.
-A) XLSX
-B) PPTX
-C) ODS
-D) EXE
-Questão 3. No Windows, a operação que cria uma segunda cópia e mantém o arquivo original é:
-A) Mover
-B) Copiar
-C) Renomear
-D) Excluir
-Questão 4. No Ubuntu, o comando utilizado para exibir o diretório atual é:
-A) ls
-B) pwd
-C) mkdir
-D) rm
-Questão 5. Em uma planilha, a referência $C$4 é:
-A) Relativa
-B) Mista
-C) Absoluta
-D) Inválida
-Questão 6. Qual função conta células que atendem a um critério?
-A) SOMA
-B) CONT.SE
-C) MÁXIMO
-D) MÉDIA
-Questão 7. A fórmula =SE(A1>=7;"Aprovado";"Reprovado"):
-A) Soma A1 com 7.
-B) Conta células maiores que 7.
-C) Retorna Aprovado quando A1 é maior ou igual a 7.
-D) Formata A1 como porcentagem.
-Questão 8. Em uma planilha, aplicar filtro significa:
-A) Apagar definitivamente as linhas que não atendem ao critério.
-B) Exibir somente os registros que atendem ao critério.
-C) Converter números em texto.
-D) Proteger todas as células.
-Questão 9. No editor de texto, alinhamento justificado:
-A) Centraliza cada linha.
-B) Alinha o texto às margens esquerda e direita.
-C) Alinha somente à direita.
-D) Transforma o texto em tabela.
-Questão 10. No Word, o recurso que registra as modificações feitas no documento para revisão é:
-A) Mala direta
-B) Controle de alterações
-C) Quebra de página
-D) Zoom
-Questão 11. Em apresentações, a diferença correta é:
-A) Transição atua entre slides; animação atua em objetos do slide.
-B) Animação atua entre arquivos; transição altera fontes.
-C) São recursos idênticos.
-D) Transição só pode ser aplicada a imagens.
-Questão 12. Uma intranet é:
-A) A própria internet mundial.
-B) Uma rede privada de uma organização.
-C) Uma rede exclusivamente via satélite.
-D) Um aplicativo de edição de texto.
-Questão 13. O protocolo que traduz nomes de domínio em endereços IP é:
-A) SMTP
-B) DNS
-C) FTP
-D) POP3
-Questão 14. O protocolo HTTPS utiliza mecanismos de segurança para:
-A) Garantir que todo site seja confiável.
-B) Proteger a comunicação entre cliente e servidor.
-C) Impedir qualquer tipo de fraude na internet.
-D) Substituir o DNS.
-Questão 15. No navegador, o cache é utilizado principalmente para:
-A) Armazenar temporariamente recursos e acelerar carregamentos.
-B) Enviar cópia oculta de mensagens.
-C) Substituir o histórico.
-D) Bloquear todos os cookies.
-Questão 16. No e-mail, o campo Cco permite:
-A) Enviar mensagem sem assunto.
-B) Ocultar dos demais destinatários os endereços incluídos nesse campo.
-C) Bloquear anexos.
-D) Criptografar automaticamente a mensagem.
-Questão 17. O protocolo mais diretamente associado ao envio de e-mails é:
-A) IMAP
-B) POP3
-C) SMTP
-D) DNS
-Questão 18. A principal característica do IMAP é:
-A) Apenas enviar mensagens.
-B) Manter mensagens no servidor e sincronizar o acesso entre dispositivos.
-C) Converter anexos em PDF.
-D) Bloquear spam automaticamente.
-Questão 19. Phishing é uma prática que busca:
-A) Melhorar a velocidade da rede.
-B) Induzir o usuário a fornecer dados ou executar ação maliciosa.
-C) Compactar arquivos.
-D) Atualizar o sistema operacional.
-Questão 20. No compartilhamento em nuvem, conceder permissão de editor significa permitir que a pessoa:
-A) Somente visualize.
-B) Visualize e, em regra, altere o conteúdo.
-C) Acesse sem autenticação em qualquer circunstância.
-D) Se torne automaticamente proprietária.
-Questão 21. Qual alternativa diferencia corretamente backup e sincronização?
-A) São sinônimos.
-B) Backup é cópia para recuperação; sincronização mantém versões alinhadas entre locais.
-C) Sincronização sempre protege contra exclusão acidental.
-D) Backup exige obrigatoriamente internet.
-Questão 22. Na tríade de segurança, integridade significa:
-A) Acesso apenas por pessoas autorizadas.
-B) Dados disponíveis quando necessários.
-C) Proteção contra alteração ou destruição indevida.
-D) Criação automática de senhas.
-Questão 23. A autenticação tem por finalidade:
-A) Definir as permissões do usuário.
-B) Verificar a identidade alegada pelo usuário.
-C) Registrar o histórico de impressão.
-D) Realizar cópia de segurança.
-Questão 24. O princípio do menor privilégio determina que:
-A) Todos os usuários tenham acesso administrativo.
-B) Cada usuário receba somente os acessos necessários à sua função.
-C) As senhas sejam compartilhadas pela equipe.
-D) O acesso aos dados seja sempre público.
-Questão 25. Segundo a LGPD, dado pessoal sensível inclui:
-A) Número aleatório sem possibilidade de associação.
-B) Dado sobre saúde vinculado a pessoa natural.
-C) Qualquer informação pública sobre órgão.
-D) Nome de empresa, necessariamente.
-Questão 26. Na LGPD, o agente que toma decisões referentes ao tratamento de dados pessoais é o:
-A) Titular
-B) Controlador
-C) Operador
-D) Destinatário
-Questão 27. A diferença entre dado e informação é que:
-A) Dado é sempre sigiloso.
-B) Informação é dado contextualizado e organizado.
-C) Informação não pode apoiar decisões.
-D) Dado e conhecimento são sinônimos.
-Questão 28. Em banco de dados relacional, a chave primária:
-A) Identifica unicamente cada registro da tabela.
-B) É sempre uma senha.
-C) Permite registros duplicados sem restrição.
-D) Substitui todas as tabelas.
-Questão 29. Transparência ativa ocorre quando:
-A) O órgão divulga informações independentemente de pedido.
-B) O cidadão protocola pedido e aguarda resposta.
-C) O órgão elimina dados públicos.
-D) A informação é fornecida apenas por telefone.
-Questão 30. Um documento nato-digital é aquele que:
-A) Foi impresso e depois escaneado.
-B) Foi criado originalmente em formato digital.
-C) É necessariamente um PDF assinado.
-D) Não pode ser preservado eletronicamente.
+- A) Armazenar dados permanentemente, mesmo sem energia.
+- B) Ser volátil e manter temporariamente dados em uso.
+- C) Substituir o processador na execução de instruções.
+- D) Armazenar exclusivamente arquivos de vídeo.
+  Questão 2. Assinale a alternativa que apresenta um formato padrão do LibreOffice Calc.
+- A) XLSX
+- B) PPTX
+- C) ODS
+- D) EXE
+  Questão 3. No Windows, a operação que cria uma segunda cópia e mantém o arquivo original é:
+- A) Mover
+- B) Copiar
+- C) Renomear
+- D) Excluir
+  Questão 4. No Ubuntu, o comando utilizado para exibir o diretório atual é:
+- A) ls
+- B) pwd
+- C) mkdir
+- D) rm
+  Questão 5. Em uma planilha, a referência $C$4 é:
+- A) Relativa
+- B) Mista
+- C) Absoluta
+- D) Inválida
+  Questão 6. Qual função conta células que atendem a um critério?
+- A) SOMA
+- B) CONT.SE
+- C) MÁXIMO
+- D) MÉDIA
+  Questão 7. A fórmula =SE(A1>=7;"Aprovado";"Reprovado"):
+- A) Soma A1 com 7.
+- B) Conta células maiores que 7.
+- C) Retorna Aprovado quando A1 é maior ou igual a 7.
+- D) Formata A1 como porcentagem.
+  Questão 8. Em uma planilha, aplicar filtro significa:
+- A) Apagar definitivamente as linhas que não atendem ao critério.
+- B) Exibir somente os registros que atendem ao critério.
+- C) Converter números em texto.
+- D) Proteger todas as células.
+  Questão 9. No editor de texto, alinhamento justificado:
+- A) Centraliza cada linha.
+- B) Alinha o texto às margens esquerda e direita.
+- C) Alinha somente à direita.
+- D) Transforma o texto em tabela.
+  Questão 10. No Word, o recurso que registra as modificações feitas no documento para revisão é:
+- A) Mala direta
+- B) Controle de alterações
+- C) Quebra de página
+- D) Zoom
+  Questão 11. Em apresentações, a diferença correta é:
+- A) Transição atua entre slides; animação atua em objetos do slide.
+- B) Animação atua entre arquivos; transição altera fontes.
+- C) São recursos idênticos.
+- D) Transição só pode ser aplicada a imagens.
+  Questão 12. Uma intranet é:
+- A) A própria internet mundial.
+- B) Uma rede privada de uma organização.
+- C) Uma rede exclusivamente via satélite.
+- D) Um aplicativo de edição de texto.
+  Questão 13. O protocolo que traduz nomes de domínio em endereços IP é:
+- A) SMTP
+- B) DNS
+- C) FTP
+- D) POP3
+  Questão 14. O protocolo HTTPS utiliza mecanismos de segurança para:
+- A) Garantir que todo site seja confiável.
+- B) Proteger a comunicação entre cliente e servidor.
+- C) Impedir qualquer tipo de fraude na internet.
+- D) Substituir o DNS.
+  Questão 15. No navegador, o cache é utilizado principalmente para:
+- A) Armazenar temporariamente recursos e acelerar carregamentos.
+- B) Enviar cópia oculta de mensagens.
+- C) Substituir o histórico.
+- D) Bloquear todos os cookies.
+  Questão 16. No e-mail, o campo Cco permite:
+- A) Enviar mensagem sem assunto.
+- B) Ocultar dos demais destinatários os endereços incluídos nesse campo.
+- C) Bloquear anexos.
+- D) Criptografar automaticamente a mensagem.
+  Questão 17. O protocolo mais diretamente associado ao envio de e-mails é:
+- A) IMAP
+- B) POP3
+- C) SMTP
+- D) DNS
+  Questão 18. A principal característica do IMAP é:
+- A) Apenas enviar mensagens.
+- B) Manter mensagens no servidor e sincronizar o acesso entre dispositivos.
+- C) Converter anexos em PDF.
+- D) Bloquear spam automaticamente.
+  Questão 19. Phishing é uma prática que busca:
+- A) Melhorar a velocidade da rede.
+- B) Induzir o usuário a fornecer dados ou executar ação maliciosa.
+- C) Compactar arquivos.
+- D) Atualizar o sistema operacional.
+  Questão 20. No compartilhamento em nuvem, conceder permissão de editor significa permitir que a pessoa:
+- A) Somente visualize.
+- B) Visualize e, em regra, altere o conteúdo.
+- C) Acesse sem autenticação em qualquer circunstância.
+- D) Se torne automaticamente proprietária.
+  Questão 21. Qual alternativa diferencia corretamente backup e sincronização?
+- A) São sinônimos.
+- B) Backup é cópia para recuperação; sincronização mantém versões alinhadas entre locais.
+- C) Sincronização sempre protege contra exclusão acidental.
+- D) Backup exige obrigatoriamente internet.
+  Questão 22. Na tríade de segurança, integridade significa:
+- A) Acesso apenas por pessoas autorizadas.
+- B) Dados disponíveis quando necessários.
+- C) Proteção contra alteração ou destruição indevida.
+- D) Criação automática de senhas.
+  Questão 23. A autenticação tem por finalidade:
+- A) Definir as permissões do usuário.
+- B) Verificar a identidade alegada pelo usuário.
+- C) Registrar o histórico de impressão.
+- D) Realizar cópia de segurança.
+  Questão 24. O princípio do menor privilégio determina que:
+- A) Todos os usuários tenham acesso administrativo.
+- B) Cada usuário receba somente os acessos necessários à sua função.
+- C) As senhas sejam compartilhadas pela equipe.
+- D) O acesso aos dados seja sempre público.
+  Questão 25. Segundo a LGPD, dado pessoal sensível inclui:
+- A) Número aleatório sem possibilidade de associação.
+- B) Dado sobre saúde vinculado a pessoa natural.
+- C) Qualquer informação pública sobre órgão.
+- D) Nome de empresa, necessariamente.
+  Questão 26. Na LGPD, o agente que toma decisões referentes ao tratamento de dados pessoais é o:
+- A) Titular
+- B) Controlador
+- C) Operador
+- D) Destinatário
+  Questão 27. A diferença entre dado e informação é que:
+- A) Dado é sempre sigiloso.
+- B) Informação é dado contextualizado e organizado.
+- C) Informação não pode apoiar decisões.
+- D) Dado e conhecimento são sinônimos.
+  Questão 28. Em banco de dados relacional, a chave primária:
+- A) Identifica unicamente cada registro da tabela.
+- B) É sempre uma senha.
+- C) Permite registros duplicados sem restrição.
+- D) Substitui todas as tabelas.
+  Questão 29. Transparência ativa ocorre quando:
+- A) O órgão divulga informações independentemente de pedido.
+- B) O cidadão protocola pedido e aguarda resposta.
+- C) O órgão elimina dados públicos.
+- D) A informação é fornecida apenas por telefone.
+  Questão 30. Um documento nato-digital é aquele que:
+- A) Foi impresso e depois escaneado.
+- B) Foi criado originalmente em formato digital.
+- C) É necessariamente um PDF assinado.
+- D) Não pode ser preservado eletronicamente.
 14. Gabarito comentado
 1. B — A RAM é memória volátil, utilizada durante a execução de programas. HD e SSD são meios não voláteis.
 2. C — ODS é o formato OpenDocument de planilhas. XLSX é associado ao Excel; PPTX a apresentações; EXE a executáveis do Windows.
@@ -337,31 +336,16 @@ D) Não pode ser preservado eletronicamente.
 29. A — Transparência ativa é divulgação espontânea; passiva decorre de solicitação do interessado.
 30. B — Nato-digital nasce digital. Digitalizado é a conversão de documento originalmente físico.
 15. Revisão de véspera: o que memorizar
-Hardware
-RAM é volátil; HD/SSD são não voláteis; CPU executa instruções.
-Arquivos
-DOCX/XLSX/PPTX; ODT/ODS/ODP; PDF; TXT; ZIP; EXE.
-Windows
-Win+E Explorador; Win+L bloquear; Win+I Configurações; Alt+Tab alternar.
-Linux
-pwd atual; ls lista; cd muda; mkdir cria; cp copia; mv move/renomeia; rm remove; sudo eleva privilégios.
-Excel
-A1 relativa; $A$1 absoluta; $A1/A$1 mistas; CONT.SE conta; SOMASE soma por critério; SE testa condição.
-Word
-Justificado alinha às duas margens; controle de alterações registra edições; mala direta personaliza documentos.
-Apresentações
-Transição entre slides; animação em objetos.
-Redes
-DNS resolve nomes; DHCP distribui configuração; TCP confiável; UDP sem conexão; IP endereça; HTTPS protege comunicação.
-E-mail
-SMTP envia; POP3 recebe/baixa; IMAP sincroniza; Cco oculta destinatários.
-Nuvem
-Leitor visualiza; comentador comenta; editor altera; sincronização não substitui backup.
-Segurança
-Confidencialidade, integridade e disponibilidade; autenticação, autorização e auditoria são conceitos diferentes.
-LGPD
-Dado pessoal; dado sensível; titular; controlador; operador; encarregado; princípios e bases legais.
-Administração pública
-Transparência ativa divulga sem pedido; passiva responde solicitação; nato-digital nasce digital.
-
-Nota: a classificação de prioridades é uma estratégia pedagógica, não uma previsão estatística garantida. A incidência varia conforme cargo, edital e prova. Em caso de divergência entre versões de programas, atalhos ou interfaces, considere a versão expressamente indicada no edital e o contexto da questão.
+Hardware	RAM é volátil; HD/SSD são não voláteis; CPU executa instruções.
+Arquivos	DOCX/XLSX/PPTX; ODT/ODS/ODP; PDF; TXT; ZIP; EXE.
+Windows	Win+E Explorador; Win+L bloquear; Win+I Configurações; Alt+Tab alternar.
+Linux	pwd atual; ls lista; cd muda; mkdir cria; cp copia; mv move/renomeia; rm remove; sudo eleva privilégios.
+Excel	A1 relativa; $A$1 absoluta; $A1/A$1 mistas; CONT.SE conta; SOMASE soma por critério; SE testa condição.
+Word	Justificado alinha às duas margens; controle de alterações registra edições; mala direta personaliza documentos.
+Apresentações	Transição entre slides; animação em objetos.
+Redes	DNS resolve nomes; DHCP distribui configuração; TCP confiável; UDP sem conexão; IP endereça; HTTPS protege comunicação.
+E-mail	SMTP envia; POP3 recebe/baixa; IMAP sincroniza; Cco oculta destinatários.
+Nuvem	Leitor visualiza; comentador comenta; editor altera; sincronização não substitui backup.
+Segurança	Confidencialidade, integridade e disponibilidade; autenticação, autorização e auditoria são conceitos diferentes.
+LGPD	Dado pessoal; dado sensível; titular; controlador; operador; encarregado; princípios e bases legais.
+Administração pública	Transparência ativa divulga sem pedido; passiva responde solicitação; nato-digital nasce digital.
